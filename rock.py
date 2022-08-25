@@ -1,5 +1,7 @@
 import random
 
+# Tym razem z punktacją jak u Sławka i Oskara
+
 user_points = 0
 comp_points = 0
 
