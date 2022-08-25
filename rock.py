@@ -34,7 +34,7 @@ while(True):
             comp_points += 1
     print ("Your points: " + str(user_points))
     print ("Computer points: " + str(comp_points))
-    new_game = input("Would you like to play again? y/n")
+    new_game = input("Would you like to play again? y/n ")
     if new_game == "y":
         print("ok, cool")
     else:
